@@ -18,69 +18,51 @@ Education
 =========
 
 * **Ph.D in Information Science and Technology**
-  <p><i>Vidyasirimedhi Institute of Science and Technology</i></p>
-  <p>August 2018 - Present</p>
+  <p><i>Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand</i></p>
+  <p>August 2017 - October 2023</p>
 
 * **B.S. in Computer Science**
-  <p><i>Khon Kaen University</i></p>
-  <p>August 2014 - July 2018</p>
+  <p><i>King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand</i></p>
+  <p>August 2013 - May 2017</p>
+  <p>First-Class Honors and Gold Medal in Chemistry.</p>
 
 <br>
 
 Work experience
 ===============
 
-* **Poster Presentation** (11-15, July 2022)
-  <p><i>EMBC 2022, Glasgow, Scotland, UK</i></p>
-  * Presented on Towards Asynchronous Motor Imagery EEG Classification
-  * Student Volunteer
-* **Mentor** (Apr 2022 – July 2022)
-  <p><i>VISTEC, AIResearch, and Central Digital
-  * Advised high school students to complete their AI projects
-* **Researcher** (Feb 2021 – Dec 2021)
-  <p><i>PTTEP International Limited (Yangon branch), Myanmar</i></p>
-  * Developed PIG signaller detection using a deep learning approach
+* **Posdoctural Researcher** (January 2024 - Present)
+  <p><i>The School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.</i></p>
+  * Conducting research on biomedical data such as EEG, EMG, and PPG
+  * Focusing on research in the fields of motor imagery-based EEG classification, epileptic seizure-based EEG detection, and arousal detection during sleep using EEG, EOG, EMG, and PPG.  
+  * Mentoring three graduate students  
 * **Mentor** (Oct 2020)
   <p><i>SCB Challenge '15, The Siam Commercial Bank, Thailand</i></p>
-  * Designed lesson plans and activities for a high school students workshop
-  * Taught basic Python, wearable devices, and machine learning
-  * Followed up and advised students to complete their projects
+  * Together with the INTERFACES team, organized workshops on basic Python, wearable devices, and machine learning for high school students.
+  * Followed up and advised students to complete their projects.
 * **Mentor** (Nov 2019)
   <p><i>SCB Challenge '14, The Siam Commercial Bank, Thailand</i></p>
-  * Taught basic Python, BCIs, UX, and UI design for high school students
-* **Oral Presentation** (Aug 2019)
-  <p><i>SICE Life Engineering Symposium and ECTI Biomedical Engineering, Bangkok, Thailand</i></p>
-  * Presented on “EEG Time-Frequency Comparison of Standing and Sitting Motor Imagery”
-  * Presented on “EMG Time-Frequency Comparison of Standing and Attempting to Stand Tasks”
-* **Oral Presentation** (Nov 2018)
-  <p><i>Workshop in Advanced Human-Machine Interaction for Improving Quality of Life and Health, ICSEC 2018, BMEiCON 2018, Chiang Mai, Thailand
-  * Presented on “Joint Data Training for Motor Imagery-EEG Classification”
-* **Researcher** (Oct 2018 – Dec 2019)
-  <p><i>VISRA-VISTEC-PTT Robotics AI and Intelligent Solution, Thailand
-  * Developed a motor imagery-based BCI system for controlling a lower-limb exoskeleton
-* **Exchange Student** (Nov 2017)
-  <p><i>Yamaguchi University, Japan</i></p>
-  * Participated in the Japan-Asia Youth Exchange Program in Science (SAKURA Exchange Program in Science), Japan Science and Technology Agency (JST)
-* **Internship** (Jun 2017 – Jul 2017)
-  <p><i>True Corporation Public Company Limited, Thailand (True Academy Project)</i></p>
-  * Worked on a server monitoring project at the Service Command Center
-* **Apprenticeship** (Aug 2016 – Jan 2017)
-  <p><i>Thai Beverage Logistics Company Limited, Thailand</i></p>
-  * Developed a mobile application for logistic operations for truck drivers
+  * Together with the INTERFACES team, organized workshops on basic Python, BCIs, UX, and UI design for high school students
+* **Internship** (Jun 1st, 2016 – Sep 30, 2016)
+  <p><i>Utac Thai Company Limited</i></p>
+  * Worked as a process engineer in process engineering section at the Engineering Department
+
 
 <br>
 
 Skills
 ======
 
-* Expert in Python, MATLAB, and Object-Oriented Programming (OOP)
-* Proficient in deep learning and machine learning tools, including TensorFlow, PyTorch, Scikit-learn, MNE, and EEGLAB
-* Strong experience with Conda, Docker, and Git for software development and deployment
-* Expertise in bio-signal processing and visualization, specifically EEG and EMG signals
-* Extensive experience with BCI tools, including g.HIAMP, g.USBAMP, OpenBCI, MUSE EEG headband, and Delsys Trigno Wireless EMG
-* In-depth experience with various EEG public datasets and state-of-the-art EEG classification models
-* Skilled in experimental setup for bio-signal recording and IRB proposal writing
-* Experienced in advising and mentoring high school, undergraduate, and doctoral students on research methodologies
+* Skilled in Python, MySQL, and MATLAB.
+* Proficient with deep learning and machine learning tools like TensorFlow, PyTorch, Scikit-learn, MNE, and EEGLAB.
+* Experienced with Conda, Docker, GitHub for version control, deployment, and Object-Oriented Programming (OOP).
+* Familiar with data science tools like Tableau and Google Data Studio.
+* Experienced with transfer learning, unsupervised learning, supervised learning, and multi-task learning
+* Specialized in processing and visualizing bio-signals, such as EEG, EMG, ECG, and PPG.
+* Extensive experience with BCI devices, including g.HIAMP, g.USBAMP, OpenBCI, and the MUSE EEG headband.
+* Experienced with various public EEG datasets and advanced EEG classification models.
+* Skilled in setting up experiments for bio-signal recording and writing IRB proposals.
+* Experienced in mentoring high school, undergraduate, and doctoral students in research methods.
 
 <br>
 
@@ -99,11 +81,10 @@ Scholarships
 ============
 
 * Graduate study
-  - Received a fully-funded scholarship from PTT Public Company Limited and The Siam Commercial Bank
+  - Received Ph.D.full scholarship from PTT Public Company Limited and The Siam Commercial Bank
 * Undergraduate study
-  - Received a fully-funded scholarship from the Department of Computer Science, Khon Kaen University
-* High school study
-  - Received a fully-funded scholarship from Princess Chulabhorn’s Science High School Loei
+  - Received merit scholarships from King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand.
+
 
 <!-- Talks
 ======
