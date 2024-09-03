@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Phairot Autthasan"
+title                    : "Phairot Autthasan (Max)"
 title_separator          : "-"
-name                     : &name "Phairot Autthasan"
+name                     : &name "Phairot Autthasan (Max)"
 description              : &description "Posdoctural researcher at INTERFACES, VISTEC"
-url                      : https://max-phairot-a.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://max-phairot-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Max-Phairot-A/max-phairot-a.github.io"
 
@@ -23,7 +23,7 @@ repository               : "Max-Phairot-A/max-phairot-a.github.io"
 author:
   # Biographic information
   avatar           : "Phairot_pfp.jpg"
-  name             : "Phairot Autthasan"
+  name             : "Phairot Autthasan (Max)"
   pronouns         : # example: "she/her"  
   bio              : "Brain-Computer Interfaces, Machine Learning, Deep Learning, Bio-signals"
   location         : "Rayong, Thailand"

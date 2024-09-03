@@ -7,9 +7,15 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "CV"
+    url: /cv/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Achievements"
+    url: /achievements/  
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -20,8 +26,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/

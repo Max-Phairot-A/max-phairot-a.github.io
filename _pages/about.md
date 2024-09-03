@@ -16,8 +16,9 @@ I did Ph.D. in Information Science and Technology at the School of Information S
 <br/>
 News
 ---
+* **16 August 2024:** <span style="color:#B22222">(New)</span> Two proceeding papers accepted to IEEE SENSORS 2024 Conference
 * **17 May 2024:** <span style="color:#B22222">(New)</span> MixNet paper accepted for publication in IEEE Internet of Things Journal (IoT-J)
-* 29 Oct.-1 Nov. 2023: <span style="color:#B22222">(New)</span> HeartRhythm paper accepted to IEEE SENSORS 2023
+* 29 Oct.-1 Nov. 2023: <span style="color:#B22222">(New)</span> HeartRhythm paper accepted to IEEE SENSORS 2023 Conference
 * 21 Dec 2021: <span style="color:#B22222">(New)</span> MIN2Net paper accepted for publication in IEEE Transactions on Biomedical Engineering (TBME)
 * 6 Dec. 2019: <span style="color:#B22222">(New)</span> A paper accepted for publication in IEEE Sensors Journal
 * 28-31 Oct. 2018: <span style="color:#B22222">(New)</span> A proceeding paper accepted to TENCON 2018 - 2018 IEEE Region 10 Conference
