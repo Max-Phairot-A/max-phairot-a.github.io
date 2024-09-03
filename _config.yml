@@ -12,7 +12,7 @@ title                    : "Phairot Autthasan"
 title_separator          : "-"
 name                     : &name "Phairot Autthasan"
 description              : &description "Posdoctural researcher at INTERFACES, VISTEC"
-url                      : https://xydxdy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://max-phairot-a.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Max-Phairot-A/max-phairot-a.github.io"
 
