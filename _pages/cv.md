@@ -57,7 +57,8 @@ Work experience
 Research experience
 ===============
 * **Ph.D. Research** (Aug 2017 - Oct 2023)
-  <p><i>INTERFACES Group in the School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.</i></p>
+  <p><i>(under the supervision of Associate Professor Theerawit Wilaiprasitporn)</i></p>
+  INTERFACES Group in the School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.
   * Developed MIN2Net, an end-to-end neural network utilizing 2-dimensional convolutional neural networks (2D-CNNs) for classifying imagined left and right-hand movements from brain signals (EEG), incorporating a multi-task autoencoder with deep metric learning (DML) and optimizing reconstruction, cross-entropy, and triplet loss functions to preserve discriminative brain signal representations.
   * Developed machine learning approaches, including support vector machine (SVM), random forest (RF), and k-nearest neighbors (kNN) to classify music preferences using brain responses (EEG) and heart responses (ECG), effectively predicting whether a listener favored or did not favor a song (Top 200 weekly chart of Thailand from renowned music streaming as Spotify).
   * Developed a support vector machine (SVM) model to accurately classify human movements based on brain signals during imagined sit-to-stand and stand-to-sit transitions, demonstrating advanced machine learning applications in BCI technology.
