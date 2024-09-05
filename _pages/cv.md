@@ -35,7 +35,7 @@ Education
 Work experience
 ===============
 
-* **Postdoctural Researcher** (Jan 2024 - Present)
+* **Postdoctoral Researcher** (Jan 2024 - Present)
   <p><i>The School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.</i></p>
   * Conducting research on biomedical data such as EEG, EMG, and PPG
   * Focusing on research in the fields of motor imagery-based EEG classification, epileptic seizure-based EEG detection, and arousal detection during sleep using EEG, EOG, EMG, and PPG.  
