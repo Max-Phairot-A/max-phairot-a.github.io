@@ -22,7 +22,7 @@ repository               : "Max-Phairot-A/max-phairot-a.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Phairot_pfp.jpg"
+  avatar           : "Max_white_bg.png"
   name             : "Phairot Autthasan (Max)"
   pronouns         : # example: "she/her"  
   bio              : "Brain-Computer Interfaces, Machine Learning, Deep Learning, Bio-signals"
