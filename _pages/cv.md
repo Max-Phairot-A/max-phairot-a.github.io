@@ -85,8 +85,8 @@ Skills
 
 * Skilled in Python, MySQL, and MATLAB.
 * Proficient with deep learning and machine learning tools like TensorFlow, PyTorch, Scikit-learn, MNE, and EEGLAB.
-* Experienced with Conda, Docker, GitHub for version control, deployment, and Object-Oriented Programming (OOP).
-* Familiar with data science tools like Tableau and Google Data Studio.
+* Experienced with Conda, Docker, GitHub for version control and Object-Oriented Programming (OOP).
+* Familiar with data visualization tools like Tableau and Google Data Studio.
 * Experienced with transfer learning, unsupervised learning, supervised learning, and multi-task learning
 * Specialized in processing and visualizing bio-signals, such as EEG, EMG, ECG, and PPG.
 * Extensive experience with BCI devices, including g.HIAMP, g.USBAMP, OpenBCI, and the MUSE EEG headband.
