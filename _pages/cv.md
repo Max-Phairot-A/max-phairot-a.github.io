@@ -25,7 +25,7 @@ Education
   <p><i>Biomed Group in Department of Electrical Engineering (ESAT), Katholieke Universiteit Leuven (KU Leuven), Leuven, Belgium</i></p>
   <p>January 2022 - November 2022</p>
 
-* **B.S. in Computer Science**
+* **B.S. in Pure Science Chemistry**
   <p><i>King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand</i></p>
   <p>August 2013 - May 2017</p>
   <p>First-Class Honors and Gold Medal in Chemistry.</p>
