@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
-
+<small><b><sup>*</sup> Equal contributions</b></small>
 {% include base_path %}
-
-
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}

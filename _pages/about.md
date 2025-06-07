@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Phairot Autthasan"
-excerpt: "Last updated: 7 June 2025"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<small><i>Last updated: 7 June 2025</i></small>
+
 I am now a Senior Data Scientist at Data Science & Data Engineering Unit, [Gosoft (Thailand) Co., Ltd](https://www.gosoft.co.th/). Before moving to industry, I was a postdoctoral researcher with the [Bio-Inspired Robotics and Neural Engineering (BRAIN) Laboratory](https://brain.vistec.ac.th){:target="_blank"} - [Interfaces Laboratory](https://vistec.ist/interfaces/){:target="_blank"}, [the School of Information Science and Technology (IST)](https://vistec.ist){:target="_blank"}, [Vidyasirimedhi Institute of Science and Technology (VISTEC)](https://vistec.ac.th){:target="_blank"}, Rayong, Thailand. My research interests include AI for healthcare, biosignal analysis, brain-computer interfaces, machine learning/deep learning for biosignals, recommendation system and computer vision.
 <br/>
 <br/>

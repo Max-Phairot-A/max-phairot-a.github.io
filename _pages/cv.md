@@ -38,7 +38,6 @@ Work experience
   <p><i>Data Science & Data Engineering Unit, Gosoft (Thailand) Co., Ltd.</i></p>
   * Recommendation System
   * Computer Vision 
-
 * **Postdoctoral Researcher** (Jan 2024 - Feb 2025)
   <p><i>The School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.</i></p>
   * Conducting research on biomedical data such as EEG, EMG, and PPG
@@ -58,6 +57,8 @@ Work experience
   <p><i>Chemistry Department, King Mongkut’s University of Technology Thonburi, Bangkok, Thailand</i></p>
   * Investigated the synthesis of a chemical compound, named 2,2-dimethyl-2,3-dihydronaphtho[1,2-β]furan-4,5-dione.
 
+<br>
+
 Research experience
 ===============
 * **Ph.D. Research** (Aug 2017 - Oct 2023)
@@ -68,7 +69,7 @@ Research experience
   * Developed a support vector machine (SVM) model to accurately classify human movements based on brain signals during imagined sit-to-stand and stand-to-sit transitions, demonstrating advanced machine learning applications in BCI technology.
   * Developed a machine learning approach for brain-computer interfaces (BCIs) that simultaneously estimates frequency and amplitude modulations of brain signals (SSVEPs) using filter bank canonical correlation analysis (FBCCA) and support vector regression (SVR), enhancing control for neuromuscular patients.
 * **Visiting Ph.D. Research** (Jan 2022 - Nov 2022)
-  <p><i>(under the supervision of Professor Maarten De Vos)<p><i>
+  <p><i>(under the supervision of Professor Maarten De Vos)</i></p>
   Biomed Group in Department of Electrical Engineering (ESAT), Katholieke Universiteit Leuven (KU Leuven), Leuven, Belgium
   * Developed an advanced deep learning architecture for detecting seizure events in epilepsy patients, focusing on identifying anomaly events (seizure) in brain responses.
   * Explored strategies for handling imbalanced brain signals in epileptic seizure detection.
@@ -83,6 +84,8 @@ No-Lead) technology.
 * **Research Assistant Project** (Aug 2014 - Dec 2014)
   <p><i>Chemistry Department, King Mongkut’s University of Technology Thonburi, Bangkok, Thailand</i></p>
   * Together with Dr. Kriangsak Khownium explored the synthesis of a chemical compound, named 2,2-dimethyl-2,3-dihydronaphtho[1,2-β]furan-4,5-dione.
+
+<br>
 
 Skills
 ======
@@ -100,24 +103,27 @@ Skills
 
 <br>
 
+Scholarships
+============
+
+* Graduate study
+  - Received a Ph.D. full scholarship from PTT Public Company Limited and The Siam Commercial Bank
+* Undergraduate study
+  - Received merit scholarships from King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand.
+
+<br>
+
 Publications
 ============
 
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
 
-<p><b><sup>*</sup> equal contributions</b></p>
+<p><b><sup>*</sup> Equal contributions</b></p>
 
 <br>
 
-Scholarships
-============
-
-* Graduate study
-  - Received Ph.D.full scholarship from PTT Public Company Limited and The Siam Commercial Bank
-* Undergraduate study
-  - Received merit scholarships from King Mongkut's University of Technology Thonburi (KMUTT), Bangkok, Thailand.
 
 
 <!-- Talks

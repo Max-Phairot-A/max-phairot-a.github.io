@@ -13,7 +13,7 @@ author_profile: true
 
 <br>
 
-* **Top 50 popular articles, IEEE Transactions on Biomedical Engineering** (2022 - May 2024)
+* **Top 50 popular articles, IEEE Transactions on Biomedical Engineering** (2022 - December 2024)
     <p><i>The publication titled "MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification" has been highlighted as a top 50 popular article in IEEE Transactions on Biomedical Engineering</i></p>
 <br>
 
