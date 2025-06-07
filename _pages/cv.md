@@ -34,8 +34,12 @@ Education
 
 Work experience
 ===============
+* **Senior Data Scientist** (Mar 2025 - present)
+  <p><i>Data Science & Data Engineering Unit, Gosoft (Thailand) Co., Ltd.</i></p>
+  * Recommendation System
+  * Computer Vision 
 
-* **Postdoctoral Researcher** (Jan 2024 - Present)
+* **Postdoctoral Researcher** (Jan 2024 - Feb 2025)
   <p><i>The School of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong, Thailand.</i></p>
   * Conducting research on biomedical data such as EEG, EMG, and PPG
   * Focusing on research in the fields of motor imagery-based EEG classification, epileptic seizure-based EEG detection, and arousal detection during sleep using EEG, EOG, EMG, and PPG.  

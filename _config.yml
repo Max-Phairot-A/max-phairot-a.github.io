@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Phairot Autthasan (Max)"
 title_separator          : "-"
 name                     : &name "Phairot Autthasan (Max)"
-description              : &description "Posdoctural researcher at INTERFACES, VISTEC"
+description              : &description "Senior Data Scientist at Data Science & Data Engineering Unit, Gosoft (Thailand) Co., Ltd"
 url                      : https://max-phairot-a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Max-Phairot-A/max-phairot-a.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "Max_white_bg.png"
   name             : "Phairot Autthasan (Max)"
   pronouns         : # example: "she/her"  
-  bio              : "Brain-Computer Interfaces, Machine Learning, Deep Learning, Bio-signals"
-  location         : "Rayong, Thailand"
-  employer         : "VISTEC"
+  bio              : "Brain-Computer Interfaces, Machine Learning, Deep Learning, Bio-signals, Recommendation System, Computer Vision"
+  location         : "Nonthaburi, Thailand"
+  employer         : "Gosoft (Thailand) Co., Ltd"
   uri              : # URL
   email            : # email address
 

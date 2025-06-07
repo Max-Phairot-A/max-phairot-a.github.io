@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Phairot Autthasan"
+excerpt: "Last updated: 7 June 2025"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher with the [Bio-Inspired Robotics and Neural Engineering (BRAIN) Laboratory](https://brain.vistec.ac.th){:target="_blank"} - [Interfaces Laboratory](https://vistec.ist/interfaces/){:target="_blank"}, [the School of Information Science and Technology (IST)](https://vistec.ist){:target="_blank"}, [Vidyasirimedhi Institute of Science and Technology (VISTEC)](https://vistec.ac.th){:target="_blank"}, Rayong, Thailand. My research interests include AI for healthcare, biosignal analysis, brain-computer interfaces, and machine learning/deep learning for biosignals.
+I am now a Senior Data Scientist at Data Science & Data Engineering Unit, [Gosoft (Thailand) Co., Ltd](https://www.gosoft.co.th/). Before moving to industry, I was a postdoctoral researcher with the [Bio-Inspired Robotics and Neural Engineering (BRAIN) Laboratory](https://brain.vistec.ac.th){:target="_blank"} - [Interfaces Laboratory](https://vistec.ist/interfaces/){:target="_blank"}, [the School of Information Science and Technology (IST)](https://vistec.ist){:target="_blank"}, [Vidyasirimedhi Institute of Science and Technology (VISTEC)](https://vistec.ac.th){:target="_blank"}, Rayong, Thailand. My research interests include AI for healthcare, biosignal analysis, brain-computer interfaces, machine learning/deep learning for biosignals, recommendation system and computer vision.
 <br/>
 <br/>
 
@@ -16,7 +17,9 @@ I did Ph.D. in Information Science and Technology at the School of Information S
 <br/>
 News
 ---
-* **16 August 2024:** <span style="color:#B22222">(New)</span> Two proceeding papers accepted to IEEE SENSORS 2024 Conference
+* **24 May 2025:** <span style="color:#B22222">(New)</span> AlphaGrad paper accepted for publication in IEEE Journal of Biomedical and Health Informatics (JBHI)
+* **20 Sep. 2024:** <span style="color:#B22222">(New)</span> A proceeding paper (MotionXpert) accepted to 2024 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES) Conference
+* **16 Aug. 2024:** <span style="color:#B22222">(New)</span> Two proceeding papers (TseizNet and ResSense) accepted to IEEE SENSORS 2024 Conference
 * **17 May 2024:** <span style="color:#B22222">(New)</span> MixNet paper accepted for publication in IEEE Internet of Things Journal (IoT-J)
 * 29 Oct.-1 Nov. 2023: <span style="color:#B22222">(New)</span> HeartRhythm paper accepted to IEEE SENSORS 2023 Conference
 * 21 Dec 2021: <span style="color:#B22222">(New)</span> MIN2Net paper accepted for publication in IEEE Transactions on Biomedical Engineering (TBME)
